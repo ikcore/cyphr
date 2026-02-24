@@ -1,0 +1,11 @@
+/target
+/.idea/
+/.claude/
+
+# IDE
+.idea/
+
+# Scratch files
+.output.txt
+test_neo.rs
+CLAUDE.md

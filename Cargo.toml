@@ -1,0 +1,14 @@
+
+[workspace]
+members = ["cyphr-core", "cyphr-macros", "."]
+
+[package]
+name = "cyphr"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+cyphr-core = { path = "cyphr-core" }
+cyphr-macros = { path = "cyphr-macros" }
+neo4rs = "0.8.0"
+futures = "0.3"
