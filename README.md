@@ -2,7 +2,7 @@
 
 A lightweight, Cypher-first mapping layer for Neo4j in Rust. Not an ORM — it preserves raw Cypher while adding strong Rust types around nodes, relationships, and query result projections. Built on [neo4rs](https://docs.rs/neo4rs) 0.8.
 
-Written by: Ian Knowles
+Written by: Ian Knowles<br>
 Project page: [BadAI: Cyphr](https://badai.company/open-source/cyphr)
 
 ## Installation
